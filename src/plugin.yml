@@ -1,0 +1,10 @@
+main: com.company.Main
+name: SpecialTools
+version: 1.0
+api-version: 1.14
+
+commands:
+  poseidon:
+    discription: trident yo
+  sugma:
+    discription: get ligma

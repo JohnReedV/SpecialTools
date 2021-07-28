@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpecialTools">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="SpecialTools.jar">
+      <element id="module-output" name="SpecialTools" />
+    </root>
+  </artifact>
+</component>
